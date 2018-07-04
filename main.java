@@ -1,6 +1,6 @@
 
 void main(){
-  test2
+  test2()
 }
 
 
