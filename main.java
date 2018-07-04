@@ -1,5 +1,4 @@
 
-test
-
+void main()
 
 
